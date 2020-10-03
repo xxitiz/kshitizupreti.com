@@ -4,6 +4,49 @@
       {alert("Welcome "+name);
         fetch("https://kshitizupreti.com.np/name.php?n="+name);}
       </script> -->
+    <script type="text/javascript">
+      function setCookie(cname,cvalue,exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires=" + d.toGMTString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  var name = cname + "=";
+  var decodedCookie = decodeURIComponent(document.cookie);
+  var ca = decodedCookie.split(';');
+  for(var i = 0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
+function checkCookie() {
+  var user=getCookie("username");
+  if (user != "") {
+    alert("Welcome again !!  " + user);
+  } else {
+     user = prompt("Please enter your name:","");
+     if (user != "" && user != null) {
+      alert("Welcome "+user);
+        fetch("https://kshitizupreti.com.np/name.php?n="+user);
+       setCookie("username", user, 30);
+     }
+     else {
+      if(name=="" || name=="null"){
+document.body.innerHTML="<center><h4>Access Denied!</h4>Enter your name and try again</center>";
+alert("Please enter you name correctly");}
+     }
+  }
+} 
+    </script>
 	<section id="home" class="main-banner parallaxie" style="background: url('images/banner-01.jpg')">
 		<div class="heading">
 			<h1>Hello I'm Kshitiz Upreti</h1>
