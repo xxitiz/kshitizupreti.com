@@ -45,7 +45,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav text-uppercase ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" onmouseover="this.style.color='yellow'"  href="index.php">--Home--</a>
+              <a class="nav-link js-scroll-trigger" onmouseover="this.style.color='yellow'"  href="https://www.kshitizupreti.com.np">--Home--</a>
             </li>
              <li class="nav-item">
               <a class="nav-link js-scroll-trigger"  onmouseover="this.style.color='yellow'" href="hacks.php">--Hacks--</a>
