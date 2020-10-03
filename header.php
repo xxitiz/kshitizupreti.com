@@ -17,7 +17,7 @@
     <meta name="description" content="">
     <meta name="author" content="XiTiZ Upreti">
 </head>
-  <body id="page-top" class="politics_version" style="background-color: teal">
+ <body id="page-top" class="politics_version" style="background-color: teal" onload="checkCookie()">
   <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0" nonce="yOwztQW1"></script>
 
