@@ -1,3 +1,2 @@
-1. add downloads links
-2. replace html ( pubg )
-3. localhost -- website
+1. replace html ( pubg )
+2. localhost -- website
