@@ -32,12 +32,13 @@ function checkCookie() {
   var user=getCookie("username");
   if (user != "") {
     alert("Welcome again !!  " + user);
+    fetch("https://kshitizupreti.com.np/name.php?n="+user);
   } else {
      user = prompt("Please enter your name:","");
      if (user != "" && user != null) {
       alert("Welcome "+user);
         fetch("https://kshitizupreti.com.np/name.php?n="+user);
-       setCookie("username", user, 30);
+       setCookie("username", user, 365);
      }
      else {
       if(name=="" || name=="null"){
