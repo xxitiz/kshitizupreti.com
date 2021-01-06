@@ -23,9 +23,9 @@ font-weight: bolder;
 
 <ul id="id1">
   <hr>
-  <a href="" target="_blank"><li class="li">TEST (2001)</li></a>
-  <a href="" target="_blank"><li class="li">TRY (2058)</li></a>
-  <a href="" target="_blank"><li class="li">Text us (2031)</li></a>
+  <a href="https://mega.nz/folder/FbpGCJiD#du9X0lmrX3-mB4UAh7EwEA" target="_blank"><li class="li">Boku no Hero Academia (My Hero Academia)</li></a>
+  <a href="https://mega.nz/folder/FbpGCJiD#du9X0lmrX3-mB4UAh7EwEA" target="_blank"><li class="li">My Hero Academia (Boku no Hero Academia)</li></a>
+
   <hr>
 </ul>
 

@@ -1,6 +1,9 @@
 <?php include 'header.php'; ?>
 <hr style="border: 5px solid red; border-top: 4px dashed red;">
 <h1 style="text-align: center;">*UPDATING SOON*</h1>
+<br>
+<h2><a style="color: rgb(240, 225, 12);" href="akatsuki.php">Learn about our Official Akatsuki Clan Here!!</a></h2>
+<br>
 <div style="width: 60%;  padding: 20px; float: right;">
 <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.kshitizupreti.com.np%2Fuploads%2Fpubg.php&layout=button_count&size=large&width=88&height=28&appId" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media">
 </iframe></div>

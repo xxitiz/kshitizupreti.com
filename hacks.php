@@ -53,14 +53,6 @@ function yt() {
     <a class="dropbtn" href="https://youtube-vanced.en.uptodown.com/android/download" target="_blank">Step 2</a>
   </div>
   <hr>
-  <h1><a style="color:orange; background-color:black" target="_blank" href="https://youtu.be/ts_87SdNpSM">Earn CryptoCurrency Using Pi Network</a></h1>
-  <div class="fb-share-button" data-href="https://youtu.be/ts_87SdNpSM" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyoutu.be%2Fts_87SdNpSM&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a>
-</div>
-  <hr>
-  <h1><a style="color:yellow; background-color:black" href="https://youtu.be/e3q26YYcrMI" target="_blank">Earn Free Money Using HoneyGain</a></h1>
-  <div class="fb-share-button" data-href="https://youtu.be/e3q26YYcrMI" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fyoutu.be%2Fe3q26YYcrMI&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a>
-</div>
-  <hr>
   <h1 class="dropdown" onclick="nf()"><a style="color:red; background-color:black" href="https://www.cinehub.to/" target="_blank">BEST NETFLIX Alternatives</a></h1>
   <div class="fb-share-button" data-href="https://www.kshitizupreti.com.np/uploads/hacks.php" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.kshitizupreti.com.np%2Fuploads%2Fhacks.php&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a>
 </div>
