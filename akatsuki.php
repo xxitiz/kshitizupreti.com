@@ -36,6 +36,6 @@
     6. You can take leadership of Clan by having at least 4 KD with level 60 and Ace Tier.(Must be member of Clan for 2 year)
     7. Having skills like Jiggling and Aim, Dropshot, Sound Sense, Faster Reflex and Aim, Gyro will keep you in a Advantage.(Claw Players Only)
 
-
+    
 </pre>
 <?php include 'footer.php'; ?>
