@@ -10,7 +10,7 @@
                         Share this Website :- <div class="fb-share-button" data-href="https://kshitizupreti.com.np/" data-layout="button_count" data-size="large"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fkshitizupreti.com.np%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
                     </p>
                     <hr>
-                    <p class="footer-company-name">All Rights Reserved. &copy; 2020 <a href="https://www.instagram.com/kshitizupreti"target="_blank">XiTiZ Upreti</a> Design By : <a href="https://www.instagram.com/kshitizupreti"target="_blank">XiTiZ</a></p>
+                    <p class="footer-company-name">All Rights Reserved. &copy; 2021 <a href="https://www.instagram.com/kshitizupreti"target="_blank">XiTiZ Upreti</a> Design By : <a href="https://www.instagram.com/kshitizupreti"target="_blank">XiTiZ</a></p>
                 </div>
             </div>
         </div><!-- end container -->

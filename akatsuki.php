@@ -12,19 +12,20 @@
           Join our Official Discord Server :- <a style="color: tomato;" href="https://discord.gg/QN5AfSh" target="_blank">https://discord.gg/QN5AfSh</a>
           Visit our Official website :- <a style="color: tomato;" href="https://www.kshitizupreti.com.np" target="_blank">https://www.kshitizupreti.com.np</a>
 
-    Regards,
+   Regards,
          Kshitiz Upreti
          Leader of Akatsuki
 
     </pre>
 
-    <img src="images/akatsuki.jpg"
+    <img src="https://www.kshitizupreti.com.np/images/akatsuki.jpg"
     style="display: block;
         margin-left: auto;
         margin-right: auto;
         width: 30%;"></img>
+<br>
+<pre style="background-color: whitesmoke; font-weight: 800;" id="tac">
 
-<pre style="background-color: whitesmoke; font-weight: 800;" id="#tac">
 
     *Terms & Conditions :-
     1. Must be from Nepal.
